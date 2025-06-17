@@ -1,0 +1,5 @@
+Empresa: Alfa | Inicio: 23.50 | Fin: 25.20
+Empresa: Beta | Inicio: 18.40 | Fin: 18.70
+Empresa: Gama | Inicio: 31.80 | Fin: 33.10
+Empresa: Delta | Inicio: 20.00 | Fin: 24.00
+Empresa: Sigma | Inicio: 12.10 | Fin: 15.50
