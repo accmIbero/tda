@@ -1,0 +1,6 @@
+Turno 1 - Línea A - Tiempo promedio: 12.5 min
+Turno 1 - Línea B - Tiempo promedio: 10.3 min
+Turno 2 - Línea A - Tiempo promedio: 11.0 min
+Turno 2 - Línea B - Tiempo promedio: 13.1 min
+Turno 3 - Línea A - Tiempo promedio: 12.0 min
+Turno 3 - Línea B - Tiempo promedio: 12.8 min
