@@ -1,0 +1,21 @@
+
+Nombre:Max, Raza:Labrador, Edad:5, Ciudad:CDMX, Peso:28.5, Diagnóstico:Gastritis
+Nombre:Luna, Raza:French Poodle, Edad:3, Ciudad:Guadalajara, Peso:9.2, Diagnóstico:Otitis
+Nombre:Rocky, Raza:Bulldog Inglés, Edad:6, Ciudad:Monterrey, Peso:24.7, Diagnóstico:Artritis
+Nombre:Bella, Raza:Golden Retriever, Edad:4, Ciudad:CDMX, Peso:30.1, Diagnóstico:Displasia de cadera
+Nombre:Toby, Raza:Chihuahua, Edad:2, Ciudad:Puebla, Peso:2.8, Diagnóstico:Gastroenteritis
+Nombre:Nina, Raza:Beagle, Edad:5, Ciudad:Guadalajara, Peso:11.0, Diagnóstico:Infección urinaria
+Nombre:Simba, Raza:Pastor Alemán, Edad:7, Ciudad:Monterrey, Peso:35.3, Diagnóstico:Otitis
+Nombre:Coco, Raza:Shih Tzu, Edad:4, Ciudad:CDMX, Peso:7.5, Diagnóstico:Alergia alimentaria
+Nombre:Zeus, Raza:Dálmata, Edad:6, Ciudad:Guadalajara, Peso:26.4, Diagnóstico:Artritis
+Nombre:Maya, Raza:Schnauzer, Edad:3, Ciudad:Monterrey, Peso:8.6, Diagnóstico:Problemas dermatológicos
+Nombre:Lucas, Raza:Boxer, Edad:5, Ciudad:CDMX, Peso:29.9, Diagnóstico:Parásitos intestinales
+Nombre:Kiara, Raza:Pitbull, Edad:4, Ciudad:Puebla, Peso:25.0, Diagnóstico:Displasia de cadera
+Nombre:Tommy, Raza:Labrador, Edad:6, Ciudad:Guadalajara, Peso:32.2, Diagnóstico:Gastritis
+Nombre:Sasha, Raza:Chihuahua, Edad:2, Ciudad:CDMX, Peso:3.0, Diagnóstico:Problemas dentales
+Nombre:Bruno, Raza:Gran Danés, Edad:5, Ciudad:Monterrey, Peso:50.7, Diagnóstico:Artritis
+Nombre:Lola, Raza:French Poodle, Edad:4, Ciudad:Guadalajara, Peso:9.0, Diagnóstico:Otitis
+Nombre:Bobby, Raza:Beagle, Edad:3, Ciudad:CDMX, Peso:10.7, Diagnóstico:Infección ocular
+Nombre:Greta, Raza:Golden Retriever, Edad:5, Ciudad:Puebla, Peso:29.8, Diagnóstico:Alergia alimentaria
+Nombre:Thor, Raza:Pastor Alemán, Edad:7, Ciudad:Monterrey, Peso:36.5, Diagnóstico:Problemas dermatológicos
+Nombre:Candy, Raza:Shih Tzu, Edad:3, Ciudad:CDMX, Peso:7.8, Diagnóstico:Otitis
